@@ -64,7 +64,3 @@ This repository is a collection of assignments and projects from the CS220 cours
 ## 🤝 Contributions
 
 This repository reflects individual coursework and is not open for external contributions. However, feedback and suggestions are welcome.
-
-## 📄 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for details.
